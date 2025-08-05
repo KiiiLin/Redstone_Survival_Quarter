@@ -1,0 +1,66 @@
+{
+    "size_display": true,
+    "turn_off_auto_save": true,
+    "enable_copy_file_range": true,
+    "concurrent_copy_workers": 0,
+    "ignored_files": [
+        "session.lock"
+    ],
+    "saved_world_keywords": [
+        "Saved the game",
+        "Saved the world"
+    ],
+    "backup_path": "./qb_multi",
+    "server_path": "./server",
+    "overwrite_backup_folder": "overwrite",
+    "world_names": [
+        "world"
+    ],
+    "backup_format": "plain",
+    "compress_level": 1,
+    "minimum_permission_level": {
+        "make": 2,
+        "back": 3,
+        "del": 3,
+        "rename": 2,
+        "confirm": 2,
+        "abort": 2,
+        "reload": 2,
+        "list": 0
+    },
+    "slots": [
+        {
+            "delete_protection": 0
+        },
+        {
+            "delete_protection": 0
+        },
+        {
+            "delete_protection": 0
+        },
+        {
+            "delete_protection": 0
+        },
+        {
+            "delete_protection": 0
+        },
+        {
+            "delete_protection": 10800
+        },
+        {
+            "delete_protection": 10800
+        },
+        {
+            "delete_protection": 10800
+        },
+        {
+            "delete_protection": 86400
+        },
+        {
+            "delete_protection": 86400
+        },
+        {
+            "delete_protection": 259200
+        }
+    ]
+}

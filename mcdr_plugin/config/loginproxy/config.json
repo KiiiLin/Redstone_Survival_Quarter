@@ -1,0 +1,39 @@
+{
+    "minimum_permission_level": {
+        "list": 1,
+        "query": 2,
+        "banned": 2,
+        "ban": 2,
+        "banip": 3,
+        "pardon": 3,
+        "pardonip": 3,
+        "whitelist": 2,
+        "enable": 3,
+        "disable": 3,
+        "allow": 3,
+        "allowip": 3,
+        "remove": 3,
+        "removeip": 3
+    },
+    "enable_whitelist": false,
+    "enable_ip_whitelist": false,
+    "whitelist_level": 2,
+    "kick_cmd": "kick {name} {reason}",
+    "messages": {
+        "banned.name": "Your account has been banned",
+        "banned.ip": "Your ip has been banned",
+        "whitelist.name": "Your account is not in the whitelist",
+        "whitelist.ip": "Your ip is not in the whitelist"
+    },
+    "allow_transfer": true,
+    "enable_packet_proxy": true,
+    "online_mode": true,
+    "identify_by_online_uuid": true,
+    "uuid_cache_ttl": 3600,
+    "proxy_addr": {
+        "ip": "",
+        "port": 25564,
+        "ipv6": "::",
+        "ipv6_port": 25563
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "serverName": "AAA Redstone Survival Server",
+    "commonJsonDataPath": null,
+    "mainServerName": "一个一个生电服啊啊啊",
+    "serverList": [
+        {
+            "name": "survival",
+            "display": "生存服",
+            "description": "survival",
+            "category": "Main Server"
+        },
+        {
+            "name": "creative",
+            "display": "创造服",
+            "description": "creative",
+            "category": "Other Server"
+        },
+        {
+            "name": "mirror",
+            "display": "镜像服",
+            "description": "mirror",
+            "category": "Other Server"
+        }
+    ],
+    "start_day": "2025-08-01",
+    "daycount_plugin_ids": [
+        "mcd_daycount",
+        "day_count_reforged",
+        "daycount_nbt"
+    ],
+    "auto_reload_interval": 3600
+}

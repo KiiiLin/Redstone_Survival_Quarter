@@ -1,0 +1,17 @@
+{
+    "xaero": {
+        "click_event_format": "simple"
+    },
+    "command": {
+        "waypoints": "!!wp",
+        "whereis": "!!whereis",
+        "here": "!!here",
+        "fastsearch_regex": "^(?P<name>\\w+)在哪里?？?$",
+        "fastsearch_prompt": "XXX在哪"
+    },
+    "player_api": {
+        "prefix_regex": "(?:\\[.+\\])?",
+        "player_list_sep": ", ",
+        "highlight_command": "effect give {player} minecraft:glowing 15 0 true"
+    }
+}

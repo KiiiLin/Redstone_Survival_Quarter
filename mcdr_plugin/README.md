@@ -13,7 +13,7 @@
 
 ## [Bot](https://mcdreforged.com/zh-CN/plugin/bot)  
 - ### Usage  
-- ### [Config]()  
+- ### [Config](https://github.com/KiiiLin/Survival_usable_Circuit/blob/main/mcdr_plugin/config/bot/config.json)  
 
 ## [Seed](https://mcdreforged.com/zh-CN/plugin/seed)  
 - ### Usage  
@@ -21,7 +21,7 @@
 
 ## [LoginProxy](https://mcdreforged.com/zh-CN/plugin/loginproxy)  
 - ### Usage  
-- ### [Config]()  
+- ### [Config](mcdr_plugin/config/loginproxy)  
 
 ## [Join MOTD](https://mcdreforged.com/zh-CN/plugin/join_motd)  
 - ### Usage  

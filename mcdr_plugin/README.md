@@ -1,8 +1,8 @@
 # MCDR插件
 ## [Quick Backup Multi](https://mcdreforged.com/zh-CN/plugin/quick_backup_multi "多槽位备份/回档插件")  
 - ### Usage
-  `!!qb`
-  `!!qb list`
+  `!!qb`  
+  `!!qb list`  
   ``
 
 - ### [Config](https://github.com/KiiiLin/Survival_usable_Circuit/blob/main/mcdr_plugin/config/QuickBackupM.json)

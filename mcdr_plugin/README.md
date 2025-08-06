@@ -1,4 +1,4 @@
-https://mcdreforged.com/zh-CN/plugin/quick_backup_multi  
+<https://mcdreforged.com/zh-CN/plugin/quick_backup_multi>  
 https://mcdreforged.com/zh-CN/plugin/where2go  
 https://mcdreforged.com/zh-CN/plugin/bot  
 https://mcdreforged.com/zh-CN/plugin/pcc  

@@ -4,6 +4,7 @@
 ## [Where2go](https://mcdreforged.com/zh-CN/plugin/where2go)  
 ## [Bot](https://mcdreforged.com/zh-CN/plugin/bot)   
 ## [Seed](https://mcdreforged.com/zh-CN/plugin/seed)  
+## [LoginProxy](https://mcdreforged.com/zh-CN/plugin/loginproxy)  
 ## [Join MOTD](https://mcdreforged.com/zh-CN/plugin/join_motd)  
 ## [Crash Restart](https://mcdreforged.com/zh-CN/plugin/crash_restart)   
   

@@ -1,7 +1,11 @@
 # MCDR插件
 ## [Quick Backup Multi](https://mcdreforged.com/zh-CN/plugin/quick_backup_multi "多槽位备份/回档插件")  
-- ### Usage  
-- ### [Config](https://github.com/KiiiLin/Survival_usable_Circuit/blob/main/mcdr_plugin/config/QuickBackupM.json)  
+- ### Usage
+  `!!qb`
+  `!!qb list`
+  ``
+
+- ### [Config](https://github.com/KiiiLin/Survival_usable_Circuit/blob/main/mcdr_plugin/config/QuickBackupM.json)
 
 ## [Timed QBM](https://mcdreforged.com/zh-CN/plugin/timed_quick_backup_multi "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份")  
 - ### Usage  

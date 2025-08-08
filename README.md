@@ -1,2 +1,2 @@
-# Survival_usable_Circuit
+# Redstone Survival Quarter
 Include everything about our survival usable circuit server in Minecraft

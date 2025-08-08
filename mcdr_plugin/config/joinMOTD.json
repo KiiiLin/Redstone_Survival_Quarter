@@ -1,7 +1,7 @@
 {
-    "serverName": "AAA Redstone Survival Server",
+    "serverName": "Redstone Survival Quarter",
     "commonJsonDataPath": null,
-    "mainServerName": "一个一个生电服啊啊啊",
+    "mainServerName": "红石生存区",
     "serverList": [
         {
             "name": "survival",

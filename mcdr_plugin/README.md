@@ -1,9 +1,10 @@
 # MCDR插件
 ## [Quick Backup Multi](https://mcdreforged.com/zh-CN/plugin/quick_backup_multi "多槽位备份/回档插件")  
 - ### Usage
-  `!!qb`  
-  `!!qb list`  
-  ``
+  `!!qb` 显示帮助信息  
+  `!!qb list` 显示各槽位的存档信息  
+  `!!qb confirm` 确认是否进行回档  
+  `!!qb abort` 中断回档  
 
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/QuickBackupM.json)
 

@@ -4,7 +4,12 @@
   `!!qb` 显示帮助信息  
   `!!qb list` 显示各槽位的存档信息  
   `!!qb confirm` 确认是否进行回档  
-  `!!qb abort` 中断回档  
+  `!!qb abort` 中断回档
+
+  ---
+  以下指令推荐用`!!qb list`后手动操作
+  > 1
+  
 
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/QuickBackupM.json)
 

@@ -5,10 +5,14 @@
   `!!qb list` 显示各槽位的存档信息  
   `!!qb confirm` 确认是否进行回档  
   `!!qb abort` 中断回档
+  `!!qb reload` 重新加载配置文件
 
   ---
   以下指令推荐用`!!qb list`后手动操作
-  > 1
+  > `!!qb make [<comment>]` 创建一个储存至槽位`1`的备份，并将后移已有槽位，`<comment>`为可选存档注释
+  > `!!qb back [<slot>]` 回档为槽位 <slot> 的存档  
+  > `!!qb del <slot>` 删除槽位`<slot>`的存档，默认为槽位1  
+  > `!!qb rename <slot> <comment>` 修改槽位`<slot>`的注释  
   
 
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/QuickBackupM.json)

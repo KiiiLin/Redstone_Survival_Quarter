@@ -26,7 +26,6 @@
   `!!tqb disable` 关闭备份定时器  
   `!!tqb set_interval <minutes>` 设置备份定时器时间间隔，单位分钟  
   `!!tqb reset_timer` 重置备份定时器  
- 
 
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/timed_quick_backup_multi.json)  
 

@@ -19,6 +19,7 @@
 
 ## [Timed QBM](https://mcdreforged.com/zh-CN/plugin/timed_quick_backup_multi "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份")  
 - ### Usage
+  **至少需要权限2才能操作**  
   `!!tqb` 显示帮助信息  
   `!!tqb status` 查看状态  
   `!!tqb enable` 启动备份定时器  

@@ -15,8 +15,7 @@
   > `!!qb rename <slot> <comment>` 修改槽位`<slot>`的注释  
   
 
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/QuickBackupM.json)
-  size_display：`true`
+- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/QuickBackupM.json)  
 
 ## [Timed QBM](https://mcdreforged.com/zh-CN/plugin/timed_quick_backup_multi "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份")  
 - ### Usage  

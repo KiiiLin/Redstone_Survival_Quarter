@@ -18,7 +18,15 @@
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/QuickBackupM.json)  
 
 ## [Timed QBM](https://mcdreforged.com/zh-CN/plugin/timed_quick_backup_multi "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份")  
-- ### Usage  
+- ### Usage
+  `!!tqb` 显示帮助信息  
+  `!!tqb status` 查看状态  
+  `!!tqb enable` 启动备份定时器  
+  `!!tqb disable` 关闭备份定时器  
+  `!!tqb set_interval <minutes>` 设置备份定时器时间间隔，单位分钟  
+  `!!tqb reset_timer` 重置备份定时器  
+ 
+
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/timed_quick_backup_multi.json)  
 
 ## [Where2go](https://mcdreforged.com/zh-CN/plugin/where2go "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能")  

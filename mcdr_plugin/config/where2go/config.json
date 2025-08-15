@@ -1,6 +1,6 @@
 {
     "xaero": {
-        "click_event_format": "simple"
+        "click_event_format": "compatible"
     },
     "command": {
         "waypoints": "!!wp",

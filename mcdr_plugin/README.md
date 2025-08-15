@@ -1,7 +1,7 @@
 # MCDR插件
 ## [Quick Backup Multi](https://mcdreforged.com/zh-CN/plugin/quick_backup_multi "多槽位备份/回档插件")  
 - ### Usage
-  `!!qb` 显示帮助信息  
+  `!!qb` 查看帮助  
   `!!qb list` 显示各槽位的存档信息  
   `!!qb confirm` 确认是否进行回档  
   `!!qb abort` 中断回档  
@@ -21,7 +21,7 @@
 - ### Usage  
   **至少需要`权限2`才能操作**  
 
-  `!!tqb` 显示帮助信息  
+  `!!tqb` 查看帮助  
   `!!tqb status` 查看状态  
   `!!tqb enable` 启动备份定时器  
   `!!tqb disable` 关闭备份定时器  
@@ -32,7 +32,7 @@
 
 ## [Where2go](https://mcdreforged.com/zh-CN/plugin/where2go "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能")  
 - ### Usage  
-  `!!wp` 显示帮助信息  
+  `!!wp` 查看帮助  
   `!!wp list [page]` 列出所有的坐标点,`[page]`为页数可选项，默认为1    
   `!!wp addhere <name>` 将玩家当前位置添加为名为`<name>`的坐标点  
   `!!wp addpos <x> <y> <z> <dimension> <name>` 添加名为`<name>`，坐标为(`<x>`, `<y>`, `<z>`)，位于`<dimension>`维度的坐标点，`<dimension>`可以为`overworld` `the_nether` `the_end`或分别简写为`o` `n` `e`  
@@ -53,6 +53,16 @@
 
 ## [Bot](https://mcdreforged.com/zh-CN/plugin/bot "最好用的地毯模组假人管理器！")  
 - ### Usage  
+  `!!bot` 查看帮助  
+  `!!bot list [filters]` 显示假人列表  
+  >`[filters]`选项  
+  >`--index <index>`：页码，例如 `--index 1`，`<index>`默认为 0  
+  >`--online`：显示在线假人  
+  >`--saved`：显示保存的假人  
+  >`--tag <tag>`：按标签过滤  
+  
+  `!!bot save <name> [position] [facing] [dimension]`  保存假人
+
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/bot/config.json)  
 
 ## [Seed](https://mcdreforged.com/zh-CN/plugin/seed "在没有op权限的情况下获取种子")  

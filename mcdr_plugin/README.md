@@ -30,7 +30,10 @@
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/timed_quick_backup_multi.json)  
 
 ## [Where2go](https://mcdreforged.com/zh-CN/plugin/where2go "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能")  
-- ### Usage  
+- ### Usage
+  `!!wp` 显示帮助信息
+  `!!whereis <player>` 查询<player>的位置  
+  `!!here` 广播自身位置与100m内坐标点  
 - ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/where2go/config.json)  
 
 ## [Bot](https://mcdreforged.com/zh-CN/plugin/bot "最好用的地毯模组假人管理器！")  

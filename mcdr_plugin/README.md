@@ -82,4 +82,13 @@
 
 ## [Crash Restart](https://mcdreforged.com/zh-CN/plugin/crash_restart "在服务端崩溃后自动重启服务器的插件")  
 - ### Usage  
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/CrashRestart.json)  
+- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/CrashRestart.json)
+
+---
+# 创造服特供
+
+## [Simple OP](https://mcdreforged.com/zh-CN/plugin/simple_op)  
+- ### Usage  
+  `!!op` 获取op  
+  `!!restart` 重启服务器
+  

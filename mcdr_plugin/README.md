@@ -8,11 +8,11 @@
   `!!qb reload` 重新加载配置文件
 
   ---
-  以下指令推荐用`!!qb list`后手动操作
-  > `!!qb make [comment]` 创建一个储存至槽位`1`的备份，并将后移已有槽位，`[comment]`为可选存档注释  
-  > `!!qb back [slot]` 回档为槽位`[slot]`的存档  
-  > `!!qb del <slot>` 删除槽位`<slot>`的存档，默认为槽位1  
-  > `!!qb rename <slot> <comment>` 修改槽位`<slot>`的注释  
+  **以下指令推荐用`!!qb list`后手动操作**  
+  `!!qb make [comment]` 创建一个储存至槽位`1`的备份，并将后移已有槽位，`[comment]`为可选存档注释  
+  `!!qb back [slot]` 回档为槽位`[slot]`的存档  
+  `!!qb del <slot>` 删除槽位`<slot>`的存档，默认为槽位1  
+  `!!qb rename <slot> <comment>` 修改槽位`<slot>`的注释  
   
 
 - ### [Config](/mcdr_plugin/config/QuickBackupM.json)  
@@ -35,17 +35,20 @@
   `!!wp` 查看帮助  
   `!!wp list [page]` 列出所有的坐标点,`[page]`为页数可选项，默认为1    
   `!!wp addhere <name>` 将玩家当前位置添加为名为`<name>`的坐标点  
-  `!!wp addpos <x> <y> <z> <dimension> <name>` 添加名为`<name>`，坐标为(`<x>`, `<y>`, `<z>`)，位于`<dimension>`维度的坐标点，`<dimension>`可以为`overworld` `the_nether` `the_end`或分别简写为`o` `n` `e`  
+  `!!wp addpos <x> <y> <z> <dimension> <name>` 添加名为`<name>`，坐标为(`<x>`, `<y>`, `<z>`)，位于`<dimension>`维度的坐标点  
+  > `<dimension>`可以为`overworld` `the_nether` `the_end`或分别简写为`o` `n` `e`  
 
   ---
-  以下指令推荐用`!!wp list`后手动操作  
-  >`!!wp info <id>` 查看坐标点`<id>`详情  
-  >`!!wp remove <id>` 移除坐标点`<id>`  
+
+  **以下指令推荐用`!!wp list`后手动操作**    
+  `!!wp info <id>` 查看坐标点`<id>`详情  
+  `!!wp remove <id>` 移除坐标点`<id>`  
 
   >tips:通过`[+X#]`可以添加坐标点到Xaero  
   >*高版本只能点击`#`部分发布坐标后，通过`[add]`手动添加到Xaero*  
 
   ---
+
   `!!here` 广播自身位置与100m内坐标点  
   `!!whereis <player>` 查询`<player>`的位置  
   >tips:使用`XXX在哪` `XXX在哪里` `XXX在哪里?`等语句也可以查询
@@ -60,8 +63,32 @@
   >`--online`：显示在线假人  
   >`--saved`：显示保存的假人  
   >`--tag <tag>`：按标签过滤  
-  
-  `!!bot save <name> [position] [facing] [dimension]`  保存假人
+ 
+  `!!bot save <name> [position] [facing] [dimension]`  保存假人  
+
+  ---
+
+  **以下指令推荐用`!!bot list`后手动操作**  
+  ![](/assets/img/bot01.png)  
+  `!!bot spwan <name>`  
+  `!!bot kill <name>`  
+  `!!bot action <name>`    
+  `!!bot del <name>`    
+  `!!bot info <name>`  
+
+  ---
+  **以下指令推荐用`!!bot info <name>`后手动操作**  
+  `!!bot config <name> name <new_name>`  
+  `!!bot config <name> position <x> <y> <z>`  
+  `!!bot config <name> facing <> <>`  
+  `!!bot config <name> dimension <dimension>`  
+  `!!bot config <name> comment <comment>`  
+  `!!bot config <name> actions append <> <>`  
+  `!!bot config <name> acitons clear`  
+  `!!bot config <name> tags append <tag>`  
+  `!!bot config <name> tags clear`    
+
+
 
 - ### [Config](/mcdr_plugin/config/bot/config.json)  
 

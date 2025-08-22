@@ -1,10 +1,10 @@
 # Redstone Survival Quarter  
 This is introduction!  
 ## Plugins Usage 
-> [插件使用教程](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/README.md)  
+> [插件使用教程](/mcdr_plugin/README.md)  
 
 ## Mods Usage
-> [模组使用教程](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/server_mods/README.md)
+> [模组使用教程](/server_mods/README.md)
 
 ## To Do List
 - [x] 插件使用教程

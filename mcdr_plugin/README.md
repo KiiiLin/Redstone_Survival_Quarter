@@ -15,7 +15,7 @@
   > `!!qb rename <slot> <comment>` 修改槽位`<slot>`的注释  
   
 
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/QuickBackupM.json)  
+- ### [Config](/mcdr_plugin/config/QuickBackupM.json)  
 
 ## [Timed QBM](https://mcdreforged.com/zh-CN/plugin/timed_quick_backup_multi "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份")  
 - ### Usage  
@@ -28,7 +28,7 @@
   `!!tqb set_interval <minutes>` 设置备份定时器时间间隔，单位分钟  
   `!!tqb reset_timer` 重置备份定时器  
 
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/timed_quick_backup_multi.json)  
+- ### [Config](/mcdr_plugin/config/timed_quick_backup_multi.json)  
 
 ## [Where2go](https://mcdreforged.com/zh-CN/plugin/where2go "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能")  
 - ### Usage  
@@ -49,7 +49,7 @@
   `!!here` 广播自身位置与100m内坐标点  
   `!!whereis <player>` 查询`<player>`的位置  
   >tips:使用`XXX在哪` `XXX在哪里` `XXX在哪里?`等语句也可以查询
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/where2go/config.json)  
+- ### [Config](/mcdr_plugin/config/where2go/config.json)  
 
 ## [Bot](https://mcdreforged.com/zh-CN/plugin/bot "最好用的地毯模组假人管理器！")  
 - ### Usage  
@@ -63,26 +63,26 @@
   
   `!!bot save <name> [position] [facing] [dimension]`  保存假人
 
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/bot/config.json)  
+- ### [Config](/mcdr_plugin/config/bot/config.json)  
 
 ## [Seed](https://mcdreforged.com/zh-CN/plugin/seed "在没有op权限的情况下获取种子")  
 - ### Usage  
   `!!seed` 获取服务器种子  
   ~~真的没有了~~  
 
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/seed/config.json)  
+- ### [Config](/mcdr_plugin/config/seed/config.json)  
 
 ## [LoginProxy](https://mcdreforged.com/zh-CN/plugin/loginproxy "Minecraft 服务器登录代理兼白名单插件")  
 - ### Usage  
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/loginproxy/config.json)  
+- ### [Config](/mcdr_plugin/config/loginproxy/config.json)  
 
 ## [Join MOTD](https://mcdreforged.com/zh-CN/plugin/join_motd "当玩家加入游戏时向其发送欢迎信息")  
 - ### Usage  
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/joinMOTD.json)  
+- ### [Config](/mcdr_plugin/config/joinMOTD.json)  
 
 ## [Crash Restart](https://mcdreforged.com/zh-CN/plugin/crash_restart "在服务端崩溃后自动重启服务器的插件")  
 - ### Usage  
-- ### [Config](https://github.com/KiiiLin/Redstone_Survival_Quarter/blob/main/mcdr_plugin/config/CrashRestart.json)
+- ### [Config](/mcdr_plugin/config/CrashRestart.json)
 
 ---
 # 创造服特供

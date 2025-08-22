@@ -4,7 +4,8 @@ This is introduction!
 > [插件使用教程](/mcdr_plugin/README.md)  
 
 ## Mods Usage
-> [模组使用教程](/server_mods/README.md)
+> [服务端模组使用教程](/server_mods/README.md)  
+> [客户端模组使用教程](/client_mods/README.md)  
 
 ## To Do List
 - [x] 插件使用教程

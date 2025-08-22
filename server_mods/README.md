@@ -2,7 +2,7 @@
 
 ## Carpet 地毯  
 - ### usage  
-- ### config  
+- ### [config](/config/carpet.conf)  
   > 配置参考： 
   > - [carpet](https://github.com/gnembon/fabric-carpet/wiki/Current-Available-Settings)  
   > - [carpet-extra](https://github.com/gnembon/carpet-extra)   
